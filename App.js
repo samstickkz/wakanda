@@ -58,7 +58,7 @@ const styles = StyleSheet.create({
   h1t: {
     marginTop: 40,
     color: "white",
-    fontSize: "34",
+    fontSize: 34,
     fontWeight: "bold",
   },
   h2t: {
@@ -81,7 +81,7 @@ const styles = StyleSheet.create({
     marginTop: 15,
     fontSize: 17,
     color: "white",
-    fontWeight: "bold"
+    fontWeight: "bold",
   },
 });
 
